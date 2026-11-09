@@ -1,0 +1,8 @@
+.msgg {
+    color: red;
+    font-size: 40px;
+}
+.active{
+    text-decoration: line-through;
+    color: gray;
+}
